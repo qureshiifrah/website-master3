@@ -1,0 +1,42 @@
+
+body {
+  background-color: lightblue;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #313;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: inherit;
+}
+
+.header {
+  font-family: sans-serif;
+color: purple;
+text-align: center;
+}
+
+p {
+color: black;
+font-family: sans-serif;
+font-size: 20px
+}
+
+.more {
+  font-family:sans-serif;
+  color: red;
+  text-align: center;
+  }
